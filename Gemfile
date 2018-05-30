@@ -65,4 +65,11 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise', '~> 4.4', '>= 4.4.3'
 
+gem 'paperclip', '~> 6.0'
+
+gem 'jquery-turbolinks'
+gem 'masonry-rails', '~> 0.2.4'
+gem 'will_paginate', '~> 3.1', '>= 3.1.6'
+gem 'will_paginate-bootstrap', '~> 1.0', '>= 1.0.1'
+
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
